@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Senior Research Fellow, Statistics and Mathematics Unit, <a href="https://www.isibang.ac.in">Indian Statistical Institute Bangalore</a>.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: 1000389991.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office A-16 (Annex), Statistics and Mathematics Unit</p>
+    <p>Indian Statistical Institute, 8th Mile, Mysore Road, RVCE Post</p>
+    <p>Bengaluru, Karnataka 560059, India</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +27,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Senior Research Fellow (SRF) in the Statistics and Mathematics Unit at the
+[Indian Statistical Institute, Bangalore](https://www.isibang.ac.in), where I am pursuing
+my PhD under the supervision of [Prof. Soumyashant Nayak](https://www.isibang.ac.in/~soumyashant/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research lies at the interface of  **matrix analysis**,**operator algebra** and
+**quantum information theory**.
